@@ -4,6 +4,7 @@ using System.Text;
 
 namespace RainbowSchool.Model
 {
+    //Teacher Model
     class Teacher
     {
         public int ID { get; set; }

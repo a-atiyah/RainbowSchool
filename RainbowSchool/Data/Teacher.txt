@@ -1,3 +1,4 @@
-﻿100 Abdulrahman 10 CS
-101 Ahmed 11 IT
-102 Khalid 12 IS
+101 Abdulrahman 1 CS
+102 Ali 2 IT
+103 Khalid 3 IS
+104 Ahmed 4 EN
